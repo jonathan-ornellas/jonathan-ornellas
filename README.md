@@ -1,38 +1,116 @@
-## Bem-vindo(a) ao perfil do Ornellas 🤘
+<div align="center">
 
- <div>
-   <a href="https://github.com/jonathan-ornellas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-ornellas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-ornellas&layout=compact&langs_count=6&theme=react"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%A4%98+Ornellas+on+the+stage;%3E_+Senior+.NET+Developer;%F0%9F%8E%B8+Code+Hard%2C+Ship+Harder" alt="Typing SVG" />
+
+```text
+ ██████╗ ██████╗ ███╗   ██╗███████╗██╗     ██╗      █████╗ ███████╗
+██╔═══██╗██╔══██╗████╗  ██║██╔════╝██║     ██║     ██╔══██╗██╔════╝
+██║   ██║██████╔╝██╔██╗ ██║█████╗  ██║     ██║     ███████║███████╗
+██║   ██║██╔══██╗██║╚██╗██║██╔══╝  ██║     ██║     ██╔══██║╚════██║
+╚██████╔╝██║  ██║██║ ╚████║███████╗███████╗███████╗██║  ██║███████║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝
+```
+
+**`> Building APIs that don't break under pressure_`**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonathan-ornellas&theme=radical" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathan-ornellas&theme=radical" height="180" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathan-ornellas&theme=radical&hide_border=true&background=0D1117&ring=9745F5&fire=FF004D&currStreakLabel=9745F5&border_radius=10)](https://git.io/streak-stats)
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="tps" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
-  <img align="center" alt=".NET CORE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="SQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="docker" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+
+---
+
+<div align="center">
+
+### ⚡ Weapons of Choice
 
 </div>
- 
 
-          
- <br>
- 
-  ### Minhas redes! 🤘
- 
-<div> 
-  <a href="https://instagram.com/jhon_orll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jonathan.nnt@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonathan-ornellas-ab3173131" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/jonathan-ornellas/jonathan-ornellas/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="250">
+      <b>🎸 Backend & Arch</b>
+    </td>
+    <td align="center" width="250">
+      <b>☁️ Cloud, Infra & Obs</b>
+    </td>
+    <td align="center" width="250">
+      <b>🥁 Frontend & Data</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" title=".NET" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Microservices-111?style=for-the-badge" alt="Microservices" />
+      <br/>
+      <img src="https://img.shields.io/badge/Clean_Architecture-111?style=for-the-badge" alt="Clean Architecture" />
+      <br/>
+      <img src="https://img.shields.io/badge/Domain_Driven_Design-111?style=for-the-badge" alt="DDD" />
+      <br/>
+      <img src="https://img.shields.io/badge/Hexagonal-111?style=for-the-badge" alt="Hexagonal Architecture" />
+      <br/><br/>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" title="AWS" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kong-03363D?style=for-the-badge&logo=kong&logoColor=white" alt="Kong API Gateway" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" title="RabbitMQ" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="40" title="Grafana" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="40" title="Prometheus" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CI%2FCD-111?style=for-the-badge" alt="CI/CD" />
+      <br/><br/>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" title="Angular" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" title="React" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" title="JavaScript" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" title="SQL Server" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+### 🎤 Find Me in the Pit
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-ornellas-ab3173131)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhon_orll)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jonathan.nnt@hotmail.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=jonathan-ornellas&color=9745F5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+![Snake animation](https://github.com/jonathan-ornellas/jonathan-ornellas/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+```text
+"Talk is cheap. Show me the code." — Linus Torvalds
+```
 
 </div>
