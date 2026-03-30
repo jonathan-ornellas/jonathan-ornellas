@@ -26,6 +26,15 @@
 
 <div align="center">
 
+### 🎙️ The Frontman (About Me)
+
+</div>
+
+* 🎸 **10+ years of road:** Building robust, scalable, and high-performance backends, mostly rocking the **.NET/C#** ecosystem.
+* 🏗️ **Architecting for the future:** I don't just write code; I design systems that last. Deeply passionate about **Clean Architecture, Hexagonal Architecture, and Domain-Driven Design (DDD)**.
+* ☁️ **Currently leveling up:** Grinding through the cloud to get my **AWS Solutions Architect – Associate** certification.
+* 📚 **Always sharpening the saw:** A good dev never stops reading. Currently exploring the concepts of *Clean Code*, with plans to dive deep into Vaughn Vernon's DDD materials next.
+
 ### ⚡ Weapons of Choice
 
 </div>
