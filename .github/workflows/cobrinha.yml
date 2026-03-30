@@ -20,8 +20,7 @@ jobs:
         with:
           github_user_name: jonathan-ornellas
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#FFFFFF&color_dots=#161B22,#401E5B,#9745F5,#C91E6B,#FF004D
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
