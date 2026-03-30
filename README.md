@@ -35,6 +35,8 @@
 * ☁️ **Currently leveling up:** Grinding through the cloud to get my **AWS Solutions Architect – Associate** certification.
 * 📚 **Always sharpening the saw:** A good dev never stops reading. Currently exploring the concepts of *Clean Code*, with plans to dive deep into Vaughn Vernon's DDD materials next.
 
+<div align="center">
+  
 ### ⚡ Weapons of Choice
 
 </div>
